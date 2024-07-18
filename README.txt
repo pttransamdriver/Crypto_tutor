@@ -1,0 +1,1 @@
+This is meant to be a place where I keep all my blockchain developer training files to teach blockchain learning and teaching. I'm planning on making this a place to put easy starting code slowly getting more complex. I'll add some comments to every line for those teaching themselves to refrenece. 
